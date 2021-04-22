@@ -1,13 +1,10 @@
-## Welcome to GitHub Pages
+## 我的绘画学习日志
 
-You can use the [editor on GitHub](https://github.com/ashe2333/ashe2333.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+这是记录我从零学习绘画的博客,希望能有所帮助.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### day1
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+第一天还没有开始
 ```markdown
 Syntax highlighted code block
 
